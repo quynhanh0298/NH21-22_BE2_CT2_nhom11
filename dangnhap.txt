@@ -1,0 +1,7 @@
+Admin
+username: quynhanh@gmail.com
+password: qqqqqqqq
+
+User
+username: phunhan@gmail.com
+password: qqqqqqqq
